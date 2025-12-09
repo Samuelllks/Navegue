@@ -4,7 +4,7 @@
 
 entre nas configurações do aparelho e abre a aba de pesquisa 🔎 
 
-**'Passo 2'**
+**`Passo 2`**
 
 pesquise por DNS.
 
