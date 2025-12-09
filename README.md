@@ -22,6 +22,10 @@ Mude para
 
 em "Inserir nome do host do provedor DNS"
 
-Coloque a seguinte DNS: `dns.adguard.com`
+Coloque a seguinte DNS: 
+````bash
+dns.adguard.com
+````
+
 
 *Pronto, agora você pode nacegar pela internet sem se preocupar com anuncios chatos*
